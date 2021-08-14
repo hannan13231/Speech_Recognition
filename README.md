@@ -26,10 +26,7 @@ export CPATH=$CPATH:/path/to/your/local/include
 source ~/.bashrc
 ```
 ### Install requirements
+
 ```
 pip install -r requirements.txt
 ```
-
-##### Made with ♥ by <a href="https://github.com/ishandeveloper">ishandeveloper</a>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/ishandeveloper)
